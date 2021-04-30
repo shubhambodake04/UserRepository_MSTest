@@ -1,0 +1,7 @@
+C:\Users\Shubham\source\Rejex_UserRegistration_Test\Rejex_UserRegistration_Test\bin\Debug\Rejex_UserRegistration_Test.exe.config
+C:\Users\Shubham\source\Rejex_UserRegistration_Test\Rejex_UserRegistration_Test\bin\Debug\Rejex_UserRegistration_Test.exe
+C:\Users\Shubham\source\Rejex_UserRegistration_Test\Rejex_UserRegistration_Test\bin\Debug\Rejex_UserRegistration_Test.pdb
+C:\Users\Shubham\source\Rejex_UserRegistration_Test\Rejex_UserRegistration_Test\obj\Debug\Rejex_UserRegistration_Test.csprojAssemblyReference.cache
+C:\Users\Shubham\source\Rejex_UserRegistration_Test\Rejex_UserRegistration_Test\obj\Debug\Rejex_UserRegistration_Test.csproj.CoreCompileInputs.cache
+C:\Users\Shubham\source\Rejex_UserRegistration_Test\Rejex_UserRegistration_Test\obj\Debug\Rejex_UserRegistration_Test.exe
+C:\Users\Shubham\source\Rejex_UserRegistration_Test\Rejex_UserRegistration_Test\obj\Debug\Rejex_UserRegistration_Test.pdb
